@@ -144,6 +144,7 @@ Development state:
 ### Hotkeys
 * [CHotkeyControl](https://autohotkey.com/boards/viewtopic.php?f=6&t=9087) - by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc (Partially mature).
 * [HParse](https://autohotkey.com/board/topic/92805-) - by Avi -  Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
+* [The imkira3 Keyboard Design v2](https://www.autohotkey.com/boards/viewtopic.php?f=83&t=113011) - by imkira3 - A fully remapped numpad designed to improve your workflow and control your media player. Designed for AutoHotkey v1 and v2
 
 ### Joystick
 * [CvJoyInterface](https://autohotkey.com/boards/viewtopic.php?t=5705) - by evilC - Control a vJoy virtual joystick using AHK.
